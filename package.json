@@ -1,0 +1,14 @@
+{
+  "name": "express-skel",
+  "version": "1.0.0",
+  "description": "Skeleton server using express/node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Aftalion",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
