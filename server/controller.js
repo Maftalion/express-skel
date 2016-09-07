@@ -1,8 +1,6 @@
-
+//Declare functions
 module.exports = {
-  index: {
-    get: (request, response) => {
-      // response.render('index');
-    }
+  getIndex: (request, response) => {
+    response.render('index');
   }
 };
